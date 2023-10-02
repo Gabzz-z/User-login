@@ -2,10 +2,10 @@
   "name": "user-login",
   "version": "1.0.0",
   "description": "A personal project using nodejs to create a user login page with role specification and user authentication",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index",
-    "dev": "nodemon index"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "keywords": [],
   "author": "",
