@@ -5,3 +5,5 @@
 20231002	13:23:03	f0f2e8d3-19b8-4cde-8edf-1ba8b6a55b94	/new-page	GET
 20231002	13:23:07	3fba233c-63a4-46ea-b189-295dd4817fc0	/new-page	GET
 20231002	13:23:07	8ce99772-f5ed-441b-a43c-fc33190853e8	/favicon.ico	GET
+20231004	11:11:26	c0a5e8c5-6a72-4faa-ad6d-bd9341c2fb99	GET	undefined	/page
+20231004	11:11:32	3483a0e8-55fa-4484-af76-bfa3cde69253	GET	undefined	/
